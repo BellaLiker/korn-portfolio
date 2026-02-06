@@ -131,8 +131,8 @@ export default function Page() {
               Want to work together? Reach out:
             </p>
             <div className="badges">
-              <a className="pill" href="mailto:your-email@example.com">your-email@example.com</a>
-              <a className="pill" href="https://github.com/your-username" target="_blank" rel="noreferrer">GitHub</a>
+              <a className="pill" href="mailto:phanna069@gmail.com">phanna069@gmail.com</a>
+              <a className="pill" href="https://github.com/your-username" target="_blank" rel="noreferrer">bellaliker</a>
               <a className="pill" href="https://www.linkedin.com/in/your-username" target="_blank" rel="noreferrer">LinkedIn</a>
             </div>
             <p className="small" style={{ marginTop: 10 }}>
